@@ -1,0 +1,32 @@
+/*
+ Theme Name:   Twenty Thirteen Child
+ Description:  Twenty Thirteen Child Theme
+ Author:       Joe Gigs
+ Template:     twentythirteen
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  twenty-thirteen-child
+*/
+
+.main-navigation {
+	position: fixed;
+	top: 120px;
+	left: 0;
+	width: 100%;
+}
+
+.nav-menu li a{
+	margin: 0 0 0 70px;
+ 	padding: 0; 
+	list-style-type: none; 
+	list-style-image: none; 
+	display: inline-block;
+	color: white;
+}
+
+.site-header .search-field {
+    background-color: white !important;
+    position: fixed !important;
+    top: 66px !important;
+}
+
